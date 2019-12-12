@@ -15,7 +15,7 @@
 			grecaptcha.render('html_element', {
 				'sitekey' : '6LdqcccUAAAAAN953Qr1I5PxU2ulWz2jVyK5oyNG'
 			});
-		};
+		}; 
 	</script>
 
 
